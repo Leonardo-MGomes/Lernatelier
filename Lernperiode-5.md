@@ -90,18 +90,30 @@ Das heisst also, dass ich einige Dinge für später aufheben und an den Dingen a
 
 ### Planung 11.09.2026
 
-- [ ] Erstes Arbeitspaket
-- [ ] ...
-- [X] Viertes AP
+- [ ] MoodleClient refactoring (auth.py)
+  - [x] UML-Design erstellen um das Refactoring besser zu planen
+  - [-] Classen abstrahieren
+  - [-] Typnamen & Classnamen bereinigen
+  - [x] Authentizierungslogik in httpx integrieren
+  - [x] Modulschnittstellen aktualisieren (anderen variablen- und classnamen z.B.)
+  - [ ] session.py decouplen (eigener/granulärer arbeitspaket?)
+  - [ ] Integrationsstest aktualisieren
+  - [ ] Integrationsstest durchführen
 
-(Heute habe ich... (50-100 Wörter))
+Heute war ich extrem produktiv und habe viel mehr erledigt als sonst.
+Wie letzte Woche beschrieben, habe ich meine Projekte aufgelistet und sie nach Priorität geordnet, d. h., ich habe entschieden, welche Projekte ich persönlich bearbeiten will. Das heisst nicht, dass ich das eine oder andere Projekt bevorzuge oder dass ich es bearbeite bis es 100 % fertig ist. Ich werde sowieso einen Mix haben, nur nicht alle gleichzeitig.
+Die Sortierung und Filterung erfolgte vor allem nach meiner persönlichen Lust, ansonsten nach den Projekten, die ich am wichtigsten finde oder bei denen ich schon weit bin.
+Das UML-Design hat mich beim Refactoring viel Zeit gekostet, aber ich konnte einen viel besseren Überblick gewinnen. Ohne diese UML als Hilfe hätte ich sicher viele Fehler gemacht. Ein zusätzlicher Vorteil ist, dass ich während der Arbeit mit UML an verschiedenen Stellen gesehen habe, dass es Abstraktion oder Delegation benötigen könnten, danke UML!
 
 
 ### Planung 18.09.2026
 
-- [ ] Erstes Arbeitspaket
-- [ ] ...
-- [X] Viertes AP
+- [ ] MoodleClient refactoring (auth.py)
+ - [ ] Classen abstrahieren
+ - [ ] Typnamen & Classnamen bereinigen
+ - [ ] session.py decouplen
+ - [ ] Integrationsstest aktualisieren
+ - [ ] Integrationsstest durchführen
 
 (Heute habe ich... (50-100 Wörter))
 
