@@ -7,21 +7,31 @@
 
 ### Noten
 > Wo stehen Sie mit Ihren Noten? In welchen Modulen waren Sie besonders stark; in welchen sind die ungenügend? Welche davon sind besonders wichtig?
+
 Meine noten in Informatik sind alle ziemlich gut, ich muss mich keine sorgen machen.
 
 ### Veränderungen
 > Was möchten Sie generell im Vergleich zur letzten Lernperiode anpassen?
+
 Ich muss die Lernperiode besser plannen und protokolieren, letzten Lernperiode habe ich das fast nie gemacht. Ich versuche ab dieser Lernperiode jede woche zu Plannen und protokolieren.
 
 ### Projekte / neue Technologien
 > Was für Projekte/neue Technologien möchten Sie gerne in dieser Lernperiode lernen?
+
 - Unit-testing (In Python)
 - C/C++
 
 ### Generelle Ziele
 > Was haben Sie für klare und messbare Ziele in dieser Lernperiode?
+
 - [MoodleClient](https://github.com/Leonardo-MGomes/MoodleClient) beenden
-- Mit C anfangen, genug um ein simples Console spiel zu machen
+- Mit C++ anfangen, genug um ein simples Console spiel zu machen
+
+### Projekte
+- [ ] MoodleClient
+- [ ] Schulplanner
+- [ ] Netacad C++
+- [ ] C++ Projekt
 
 ## Tagesplanungen
 
@@ -66,14 +76,16 @@ Pointer und Referenzen sind mir noch ein bisschen fremd. Ich verstehe es langsam
 ### Planung 04.09.2026
 
 - [ ] C++ Essentials in Netacad
-  - [ ] Modul 3 beenden (3.8 - 3.9) + test bestehen
-  - [ ] Modul 4 anfangen (4.1 - 4.5)
+  - [x] Modul 3 beenden (3.8 - 3.9) + test bestehen
+  - [x] Modul 4 anfangen (4.1 - 4.2)
 - [ ] Ersten C++ Projekt anfangen
-  - [ ] Scope wählen
-  - [ ] Anforderungen notieren / dokumentieren
+  - [x] Scope wählen
+  - [x] Anforderungen notieren / dokumentieren
   - [ ] Environment erstellen und kleiner beispiel kompilieren lassen
 
-(Heute habe ich... (50-100 Wörter))
+Ich habe heute fast alles geschafft, was ich geplant hatte. Ich hatte wenige Probleme bei Netacad und bei der Planung meinen C++ Projekt.
+Allerdings habe ich das Gefühl, dass ich mir zu viel vorgenommen habe. Ich habe noch andere Projekte offen (z. B. MoodleClient, Schulplaner usw.), die ich gerne fertigstellen würde.
+Das heisst also, dass ich einige Dinge für später aufheben und an den Dingen arbeiten soll, die ich entweder brauche oder schon kann. Ich werde also oben unter Grobplanung eine Liste führen, die meine Projekte in der gewünschten Bearbeitungsreihenfolge repräsentiert.
 
 
 ### Planung 11.09.2026
