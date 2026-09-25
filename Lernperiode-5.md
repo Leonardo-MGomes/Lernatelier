@@ -115,16 +115,23 @@ Das UML-Design hat mich beim Refactoring viel Zeit gekostet, aber ich konnte ein
  - [ ] Integrationsstest aktualisieren
  - [ ] Integrationsstest durchführen
 
-(Heute habe ich... (50-100 Wörter))
+Heute habe ich kaum gearbeitet. Ehrlich gesagt habe ich meine Zeit zum Lernen für eine Kanti Prüfung statt für Informatik benutzt, weil ich diesen Test sehr wichtig finde und absolut sicher sein will, dass ich eine gute Note schreibe. Ich werde versuchen, diese Zeit zu Hause nachzuholen, jedoch erst nachdem ich den Test abgeschlossen habe.
+Die wenig Zeit die ich gearbeitet habe, habe ich mit Authentication und der Implementierung davon in httpx verbracht. Die Arbeitspakete von heute werde ich auf nächste Woche übertragen.
 
 
 ### Planung 25.09.2026
 
-- [ ] Erstes Arbeitspaket
-- [ ] ...
-- [X] Viertes AP
+- [ ] MoodleClient refactoring (auth.py)
+ - [x] Classen abstrahieren
+ - [ ] Typnamen & Classnamen bereinigen
+ - [-] session.py decouplen
+ - [ ] Integrationsstest aktualisieren
+ - [ ] Integrationsstest durchführen
 
-(Heute habe ich... (50-100 Wörter))
+Ich habe inzwischen die verlorene Zeit der letzten Woche nachgeholt und dabei ist mir aufgefallen, dass dieses Refactoring ein bisschen mehr Arbeit erfordert als gedacht. Hinter dem Arbeitspaket "Klassen abstrahieren" lässt sich viel verstecken, jedoch finde ich das gut, da diesen refactoring mich daran errinert von Anfang an einen Plan zu haben und nicht "machen und später bereinigen".
+Ich habe heute damit begonnen session.py zu decouplen. Es geht ziemlich gut voran, aber ich bin noch nicht fertig. Typen und Classennamen wurden heute nicht angepasst, da ich die meisten schon vor zwei Wochen gemacht habe.
 
 ## Lernperiode Reflexion
-(In dieser Lernperiode habe ich... (100-150 Wörter))
+In dieser Lernperiode habe ich wichtige Dinge über mein eigenes Arbeits- und Projektverhalten gelernt. Am Anfang habe ich mir zu viel vorgenommen und ein bisschen in Stress geraten, da ich an allem weiterarbeiten wollte.
+Das Refactoring hat mir persönlich die meisten Erfahrungen gebracht. Da ich beim Refactoring spezifische Probleme angegangen bin, denen ich sonst nie begegnen würde, ist es weniger wahrscheinlich dass ich die gleichen Fehler nochmals mache. Und falls doch werde ich es einfacher finden sie vorzeitig zu finden.
+Ich habe diese Lernperiode die wöchentliche Lernpakete und Reflexionen viel besser geplant und durchgeführt als letztes Jahr. Ich bin auch bewusst in mehr Details eingegangen, um mich selbst zur Arbeit zu "zwingen".
