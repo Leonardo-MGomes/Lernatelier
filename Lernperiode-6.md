@@ -65,7 +65,7 @@ Tagesüberschrift eines dieser Schlüsselwörter allein auf eine Zeile:
 absence, absent, Absenz, abwesend, krank, Krankheit.
 -->
 
-### Planung tt.mm.jjjj
+### Planung 23.10.2026
 <!--
 Planen Sie 3 bis 5 **klar messbare** Arbeitspakete.
 Umfang: ca. 30 - 60 Minuten je Arbeitspaket
@@ -76,9 +76,10 @@ Beispiele:
 - [x] erledigte Aufgabe
 -->
 
-- [ ] ...Ihr Text...
-- [ ] ...Ihr Text...
-- [ ] ...Ihr Text...
+- [ ] MoodleClient
+    - [x] authentication beenden
+    - [x] user-agent dynamisch erstellen
+    - [x] moodle_endpoint decorator erstellen um code-duplication zu vermeiden
 
 
 #### Tagesreflexion
@@ -89,12 +90,80 @@ Nicht wiederholen, was die Checkboxen schon aussagen.
 Umfang: 50 - 100 Wörter (ungefähr 3 - 6 Sätze)
 -->
 
-...Ihr Text...
+Ich konnte heute alles machen was geplant war, auch wenn es zeitlich ein bisschen knapp war. Der moodle_endpoint decorator ist ein decorator der ein log machen soll (welche func, daten und evt. errors?) und den request auf den richtigen endpoint schickt. Dies macht es durch die Methodensignatur, die den namen der Endpoint schon hat. Ich fand das eine gute möglichkeit über Decorators zu lernen.
 
 
 <!--
 Fügen Sie hier die weiteren Tage der Lernperiode ein.
 -->
+
+### Planung 30.10.2026
+
+- [ ] MoodleClient
+    - [x] debug problem über decorator
+    - [x] moodle_endpoint decorator zu alle Services einfügen 
+    - [x] experimental branch testen
+    - [x] experimental branch mergen
+    - [ ] 1 CourseService endpoint implementieren
+
+#### Tagesreflexion
+
+Ich habe heute sehr viel Zeit mit Debugging verbracht. Ich konnte den Fehler irgendwie lange nicht finden, was meine Zeitplanung durcheinandergebracht hat.
+Beim Testen des Experimental-Branches fand ich keine Probleme bei den grossen Features, was ich ein bisschen überraschend fand.
+Ich hatte am ende keine Zeit mehr, um einen Endpoint zu implementieren, dazu kann ich leider nichts berichten.
+
+
+### Planung 06.11.2026
+
+- [ ] MoodleClient
+    - tba
+
+#### Tagesreflexion
+
+tba
+
+
+### Planung 20.11.2026
+
+- [ ] Planner
+    - [x] KI guidelines erstellen
+    - [x] Projektidee, MVP-Umfang und Techstack gewählt/festgelegt
+    - [x] Umgebung einrichten
+    - [x] Git repo initialisieren
+    - [x] Monorepo mit workspaces aufgesetzt
+    - [x] Dependencies installiert
+    - [x] TypeScript konfiguriert
+    - [x] Ersten einfachen Express server geschrieben
+
+#### Tagesreflexion
+
+Ich habe ein neues Projekt angefangen: einen Planner für mich. Das MVP umfasst Folgendes: Tasks mit Titel, Kategorie, erledigt-Checkbox und Fälligkeitsdatum erstellen, sehen, bearbeiten und löschen. Ich werde es als RESTful API schreiben, damit ich später nicht nur Web-Clients, sondern auch native Clients in C# oder anderen Sprachen schreiben kann.
+Da es mein erstes Projekt mit NodeJS ist, musste ich noch einiges über die Umgebung lernen, zum Beispiel, wie TSConfig geschrieben wird.
+
+Für dieses Projekt habe ich mich entschieden, KI als Hilfe zu nutzen. Ich habe Richtlinien erstellt, denen die KI folgen soll. Kurz zusammengefasst:
+
+- Die KI ist ein Mentor und kein Code-Generator: Den Code schreibe ich selbst.
+- Sie gibt keine fertigen Lösungen, ausser ich verlange ausdrücklich danach.
+– Wenn ich feststecke, hilft sie mir mit schrittweisen Hinweisen. Fragen, Konzepte, Doku-Links und Vergleiche mit Sprachen, die ich schon kenne (Python, C#).
+– Syntax, Befehle und Konzepte darf sie direkt erklären.
+– Sie achtet von Anfang an auf professionelle Standards und weist mich sofort auf bessere Lösungswege hin.
+– Sie fragt mich regelmässig zu gelernten Themen ab und stellt Übungsaufgaben.
+– Sie dokumentiert meinen Lernfortschritt, sodass sie in jeder Sitzung weiss, wo wir stehen.
+
+So stelle ich sicher, dass ich diesen Techstack wirklich lerne und das Projekt selbst entwickle.
+
+(Diese Plannung und Tagesreflexion wurde am 27.11.2026 nachgeführt)
+
+
+### Planung 27.11.2026
+
+- [ ] Planner
+    - [] 
+
+#### Tagesreflexion
+
+tba
+
 
 ## Lernperiode Reflexion
 <!--
